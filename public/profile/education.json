@@ -1,0 +1,16 @@
+{
+    "education":[
+        {
+            "title": "Aug 2019 - Present",
+            "cardTitle": "B.Com, Informatics",
+            "cardSubtitle":"Telkom University, Bandung",
+            "cardDetailedText": "GPA - 3.9/4.0",
+        },
+        {
+            "title": "2019",
+            "cardTitle": "High School",
+            "cardSubtitle":"SMA 5, Balikpapan",
+            "cardDetailedText": "AVG - 8.0/10.0",
+        }
+    ]
+}

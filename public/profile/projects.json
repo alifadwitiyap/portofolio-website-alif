@@ -1,0 +1,187 @@
+{
+    "projects" : [
+        {
+            "title": "NDETC Stemmer",
+            "bodyText": "A library implements a context-based nondeterministic stemming method to solve the problem of morphologically ambiguous words in the Indonesian word stemming process.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/alifadwitiyap/NDETCStemmer"
+                },
+                {
+                    "text": "PyPi",
+                    "href": "https://pypi.org/project/NDETCStemmer/"
+                }
+            ],
+            "tags" : [
+                "NLP",
+                "Python",
+                "NLTK",
+                "Stemmer",
+                "Object Oriented Programming"
+            ]
+        },
+        {
+            "title": "Talenta Achiva",
+            "bodyText": "Competition Management and Achievement Striving App.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/TheRisingStarTeam/TalentaAchiva"
+                }
+            ],
+            "tags" : [
+                "Android App",
+                "Bangkit Capstone Project",
+                "Tensorflow Recommender System",
+                "Firebase",
+                "GCP"
+            ]
+        },
+        {
+            "title": "Online Store Digital Records",
+            "bodyText": "Warehouse management system to make it easier for owners to record stock, and sales, see store progress and determine which items need to be stocked more using AI (fuzzy score).",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/alifadwitiyap/online-store-digital-records"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://online-store-digital-records-theta.vercel.app"
+                }
+            ],
+            "tags" : [
+                "Javascript",
+                "Website",
+                "Artificial Intelligence",
+                "School Project"
+            ]
+        },
+        {
+            "title": "Pocket Travel",
+            "bodyText": "Pocket Travel is an application that is used as a travel management and a kind of simple social media to share travel diary. This application is planned to be developed on android and also web so that this application can be used anywhere by users.",
+            "links": [
+                {
+                    "text": "Backend Github",
+                    "href": "https://github.com/alifadwitiyap/pocketTravelAPI"
+                },
+                {
+                    "text": "Web Github",
+                    "href": "https://github.com/alifadwitiyap/pocket-travel-frontend"
+                },
+                {
+                    "text": "Flutter Github",
+                    "href": "https://github.com/alifadwitiyap/pocket-travel-mobile"
+                }
+            ],
+            "tags" : [
+                "PHP",
+                "Dart",
+                "Javascript",
+                "React",
+                "Laravel",
+                "Rest API",
+                "Flutter",
+                "School Project"
+            ]
+        },
+        {
+            "title": "Open Music API",
+            "bodyText": "Simple music player API using hapi for dicoding submission",
+            "links": [
+                {
+                    "text": "Github",
+                    "href": "https://github.com/alifadwitiyap/openMusicAPI"
+                }
+            ],
+            "tags" : [
+                "Rest API",
+                "Hapi",
+                "Javascript"
+            ]
+        },         
+        {
+            "title": "ISFEST 2021 Final Visualization Website",
+            "bodyText": "Visualization Website For Isfest Final Competition",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/alifadwitiyap/PP-Mikey_ISFEST-Final-2021"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://pp-mikey-isfest-final-2021.streamlit.app"
+                }
+            ],
+            "tags" : [
+                "Streamlit",
+                "Website",
+                "Python",
+                "Data Visualization",
+                "Competition Project"
+            ]
+        },
+        {
+            "title": "EC Competition - Covid 19 vs Mobility Dashboard",
+            "bodyText": "Make a dashboard using tableau to observe the correlation between the number of cases of covid 19 and the people's mobility in each province of Indonesia",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://public.tableau.com/app/profile/alif.adwitiya.pratama/viz/LombaEC/Dashboard1?publish=yes"
+                }
+            ],
+            "tags" : [
+                "Tableau",
+                "Data Visualization",
+                "Competition Project"
+            ]
+        },
+        {
+            "title": "Data Visualization Project",
+            "bodyText": "Assignment for Data Visualization Course",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/alifadwitiyap/VisualDataProject"
+                }
+            ],
+            "tags" : [
+                "Data Visualization",
+                "Python",
+                "School Project"
+            ]
+        },
+        {
+            "title": "Genetic Algorithm Scratch",
+            "bodyText": "Genetic Algorithm to Find Maximum Value of Function. This is a final project for Artificial Intelligence Course, where we have to implement Genetic Algorithm to find maximum value of function.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/alifadwitiyap/GeneticAlgorithm"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Artificial Intelligence",
+                "School Project"
+            ]
+        },
+        {
+            "title": "Fuzzy Algorithm Scratch",
+            "bodyText": "Fuzzy Algorithm to predict top 10 restaurant based on fuzzy score",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/alifadwitiyap/FuzzyLogic"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Artificial Intelligence",
+                "School Project"
+            ]
+        }
+  
+    ]
+}
