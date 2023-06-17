@@ -33,7 +33,7 @@
             "tags" : [
                 "Android App",
                 "Bangkit Capstone Project",
-                "Tensorflow Recommender System",
+                "Artificial Intelligence",
                 "Firebase",
                 "GCP"
             ]
@@ -88,7 +88,7 @@
         },
         {
             "title": "Open Music API",
-            "bodyText": "Simple music player API using hapi for dicoding submission",
+            "bodyText": "Simple music player API using hapi",
             "links": [
                 {
                     "text": "Github",
@@ -102,8 +102,36 @@
             ]
         },         
         {
+            "title": "Diabetes Prediction",
+            "bodyText": "Diabetes Prediction using random forest and logistic regression",
+            "links": [
+                {
+                    "text": "Github",
+                    "href": "https://github.com/alifadwitiyap/DicodingSubmission/tree/main/Machine%20Learning%20Developer/Machine%20Learning%20Terapan/submission-predictive"
+                }
+            ],
+            "tags" : [
+                "Artificial Intelligence",
+                "Python"
+            ]
+        },         
+        {
+            "title": "Anime Recommender System",
+            "bodyText": "Recommender system for recommend anime using collaborative and content-based filtering",
+            "links": [
+                {
+                    "text": "Github",
+                    "href": "https://github.com/alifadwitiyap/DicodingSubmission/tree/main/Machine%20Learning%20Developer/Machine%20Learning%20Terapan/submission-recommender"
+                }
+            ],
+            "tags" : [
+                "Artificial Intelligence",
+                "Python"
+            ]
+        },         
+        {
             "title": "ISFEST 2021 Final Visualization Website",
-            "bodyText": "Visualization Website For Isfest Final Competition",
+            "bodyText": "Visualization website for IsFest final competition",
             "links": [
                 {
                     "text": "GitHub",
