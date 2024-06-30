@@ -21,6 +21,22 @@
                 "Object Oriented Programming"
             ]
         },
+          {
+            "title": "IBM Data Science Capstone",
+            "bodyText": "This project predicts successful first stage landings to compete with SpaceX's cost-effective launches, analyzing key factors and optimal conditions.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/alifadwitiyap/IBM-DATA-SCIENCE-CAPSTONE/blob/main/ds-capstone-submission.pdf"
+                }
+            ],
+            "tags" : [
+                "Data Science",
+                "Artificial Intelligence",
+                "Python",
+                "Data Visualization"
+            ]
+        },
         {
             "title": "Talenta Achiva",
             "bodyText": "Competition Management and Achievement Striving App.",
